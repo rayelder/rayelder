@@ -1,3 +1,2 @@
 👋 Hi, I’m @rayelder
-- I’m interested in data informed design
-- I’m currently learning D3
+I’m a Product Designer leaning into Data Science
